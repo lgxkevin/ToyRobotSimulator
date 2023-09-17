@@ -38,4 +38,4 @@ Test data is provided to exercise the application's functionality and can be fou
 To get started with the Toy Robot Simulator, clone this repository and follow the setup instructions.
 
 - Enter `ToyRobotSimulator` folder
-- Run `dotnet run` in terminal
+- Run `dotnet run` in terminal 
